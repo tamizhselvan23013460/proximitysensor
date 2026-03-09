@@ -205,7 +205,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
 ![exp5_1](https://github.com/user-attachments/assets/a072ee97-da92-49f0-9a10-842f04ed2dc7)
 
-![WhatsApp Image 2026-03-09 at 10 56 10](https://github.com/user-attachments/assets/4b25d5db-7c90-4f93-8aac-31970c5e6327)
+![exp5_2](https://github.com/user-attachments/assets/91f9e3c1-8811-4652-8398-85fda7ab7b4b)
 
 
 
